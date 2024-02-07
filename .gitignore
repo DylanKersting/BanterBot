@@ -1,0 +1,10 @@
+.vscode
+.env
+*.key
+*.crt
+node_modules
+ssl
+dist
+daemon
+images
+tsconfig.tsbuildinfo

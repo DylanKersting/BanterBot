@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "outDir": "../../dist/server",
+    "esModuleInterop": true,
+  },
+}

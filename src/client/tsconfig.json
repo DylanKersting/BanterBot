@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "rootDir": "./",
+    "jsx": "react-jsx",
+    "outDir": "../../dist",
+    "esModuleInterop": true,
+  },
+}
